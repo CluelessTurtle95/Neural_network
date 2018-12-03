@@ -1,4 +1,4 @@
-%%
+%% MATLAB Script
 % DATA
 clc
 clear
