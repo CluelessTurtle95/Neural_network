@@ -1,5 +1,7 @@
-# Neural_network
+# Neural Network
 
-C++ Library for making neural netwoks.
+C++ Library for making regular neural netwoks.
 
-Uses backpropogation along with gradient descent to minimize the cost.
+Uses https://github.com/CluelessTurtle95/LinearAlgebra for doing matrix operations.
+
+Backpropogation is implemented using the square error cost function. 
